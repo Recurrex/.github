@@ -36,8 +36,8 @@ We are a talent-driven group available for technical consulting and rapid produc
 
 📩 **Connect:** recurrex.ofc@gmail.com
 🌐 **LinkedIn:** [Link to Recurrex Page]  
-🌐 **Instagram:** [instagram.com/recurrex]
-🌐 **Facebook:** [facebook.com/recurrex]
+🌐 **Instagram:** [ instagram.com/recurrex ]
+🌐 **Facebook:** [ facebook.com/recurrex ]
 📍 **Based in:** India 
 
 ---
