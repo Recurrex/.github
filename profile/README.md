@@ -12,10 +12,13 @@ We explore the boundaries of AI, Software Engineering, and Modern Web Developmen
 ---
 
 ### 👥 The Collective :
-* **Aritraa Chakraborty**
-* **Mainak Saha**
-* **Ankit Kabiratna**
-* **Abir Banik**
+* **Aritraa Chakraborty : Chief Executive Officer**
+* **Mainak Saha : Chief Technical Officer**
+* **Abir Banik : Chief Design Officer**
+* **Ankit Kabiratna : Lead Software Engineer**
+* **Soumodeep Chatterjee : Associate Developer**
+* **Soumodeep Mazumder : Technical Researcher**
+* **Abhirup Roy : Technical Associate**
 
 ---
 
@@ -25,17 +28,17 @@ We explore the boundaries of AI, Software Engineering, and Modern Web Developmen
 
 ---
 
-### 🏆 Milestone Highlights
+### 🏆 Milestone Highlights :
 * **IEEE EDS Code2Console Game Development Competition 2026:** 🥈 1st Runner-Ups.
 
 
 ---
 
-### 💼 Work With Us
+### 💼 Work With Us :
 We are a talent-driven group available for technical consulting and rapid product prototyping. If you have a problem that needs an innovative solution, let’s build it together.
 
 📩 **Connect:** recurrex.ofc@gmail.com
-🌐 **LinkedIn:** [Link to Recurrex Page]  
+🌐 **LinkedIn:** [linkedin.com/company/recurrexhq/]  
 🌐 **Instagram:** [ instagram.com/recurrex ]
 🌐 **Facebook:** [ facebook.com/recurrex ]
 📍 **Based in:** India 
