@@ -7,7 +7,7 @@ Recurrex is a dynamic collective of innovators, engineers, and creators. We are 
 ---
 
 ### 💡 What We Do :
-We explore the boundaries of AI, Software Engineering, and Modern Web Development. Our projects are born from curiosity and a drive to solve complex problems through clean code and creative thinking.
+* We explore the boundaries of AI, Software Engineering, and Modern Web Development. Our projects are born from curiosity and a drive to solve complex problems through clean code and creative thinking.
 
 ---
 
@@ -33,7 +33,7 @@ We explore the boundaries of AI, Software Engineering, and Modern Web Developmen
 ---
 
 ### 💼 Work With Us :
-We are a talent-driven group available for technical consulting and rapid product prototyping. If you have a problem that needs an innovative solution, let’s build it together.
+* We are a talent-driven group available for technical consulting and rapid product prototyping. If you have a problem that needs an innovative solution, let’s build it together.
 ---
 # 🌐 Follow Us :
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:recurrex.ofc@gmail.com)
