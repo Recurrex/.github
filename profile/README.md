@@ -12,14 +12,11 @@ We explore the boundaries of AI, Software Engineering, and Modern Web Developmen
 ---
 
 ### 👥 The Collective :
-* **Aritraa Chakraborty : Chief Executive Officer**
-* **Mainak Saha : Chief Technical Officer**
-* **Abir Banik : Chief Design Officer**
-* **Ankit Kabiratna : Lead Software Engineer**
-* **Soumodeep Chatterjee : Associate Developer**
-* **Soumodeep Mazumder : Technical Researcher**
-* **Abhirup Roy : Technical Associate**
-* **Sheikh Anisur Rahaman : Technical Associate**
+* **Aritraa Chakraborty **
+* **Mainak Saha **
+* **Abir Banik **
+* **Ankit Kabiratna **
+
 
 ---
 
