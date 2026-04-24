@@ -16,7 +16,7 @@ Recurrex is a dynamic collective of innovators, engineers, and creators. We are 
 * **Mainak Saha **
 * **Abir Banik **
 * **Ankit Kabiratna **
-
+* **Joy Mukherjee **
 
 ---
 
